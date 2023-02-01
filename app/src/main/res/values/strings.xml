@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">FirstApp2</string>
-    <string-array name="operations">
-        <item>none</item>
-        <item>/</item>
-        <item>*</item>
-    </string-array>
-</resources>
